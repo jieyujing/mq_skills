@@ -1,6 +1,6 @@
 ---
 name: mq-skills
-description: Provide comprehensive Python SDK documentation for the mq-skills quantitative trading platform. Use when writing strategies, looking up API functions, data structures, or handling market data events. Keywords: import mq, 掘金.
+description: "Provide comprehensive Python SDK documentation for the mq-skills quantitative trading platform. Use when writing strategies, looking up API functions, data structures, or handling market data events. Keywords: import mq, 掘金."
 ---
 
 # mq-skills Quantitative Trading SDK
