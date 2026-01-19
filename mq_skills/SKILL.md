@@ -68,7 +68,7 @@ mq-skills supports various strategy structures:
 
 ## 📖 How to Use
 
-Use this skill in Claude to:
+Use this skill in agent to:
 1. Check API function usage
 2. Look up data structure definitions
 3. Get code examples
